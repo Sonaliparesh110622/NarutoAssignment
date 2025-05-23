@@ -1,0 +1,2 @@
+DevOps is basically the combination of Development and Operation.
+Founder of DevOps is Patrick Debois.
